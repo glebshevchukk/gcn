@@ -1,0 +1,3 @@
+batch_size: 128
+epochs: 100
+n_hidden: 4000
