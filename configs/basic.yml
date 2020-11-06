@@ -1,3 +1,5 @@
-batch_size: 128
-epochs: 100
-n_hidden: 4000
+batch_size: 64
+epochs: 30
+n_hidden: [5000]
+n_repeats: 5
+n_forward_steps: 10
